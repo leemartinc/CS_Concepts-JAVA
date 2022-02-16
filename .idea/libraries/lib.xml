@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-groovydoc-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-jsr223-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-groovydoc-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-nio-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-contracts-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-cli-picocli-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-docgenerator-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-ginq-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-jsr223-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-typecheckers-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-ant-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-jmx-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-test-junit5-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-servlet-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-swing-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-cli-commons-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-macro-library-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-console-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-json-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-servlet-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-templates-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-test-junit5-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-macro-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-swing-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-astbuilder-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-macro-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-test-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-cli-commons-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-groovysh-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-macro-library-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-xml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-testng-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-test-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-datetime-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-sql-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-dateutil-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-json-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-groovysh-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-typecheckers-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-ginq-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-templates-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-ant-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-sql-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-dateutil-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-xml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-toml-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-astbuilder-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-datetime-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-console-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-docgenerator-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-nio-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-cli-picocli-4.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-testng-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-jmx-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-toml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSconcepts/lib/groovy-contracts-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
