@@ -3,6 +3,12 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args)
     {
+
+
+
+    }
+
+    public static void singToMe () {
         DoYouHear l1 = new DoYouHear();
 
         l1.mainChorus( "night wind", "little lamb", "see");
@@ -14,8 +20,6 @@ public class App {
         l2.mainChorus( "little lamb", "shepherd boy", "hear");
         System.out.println("Said the " + l2.getPerson1()+ " to the " + l2.getPerson2());
         System.out.println("Do you " + l2.getAction() + " what I " + l2.getAction() + " ?");
-
-
 
     }
 
