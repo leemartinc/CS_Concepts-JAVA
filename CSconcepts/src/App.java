@@ -3,8 +3,29 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args)
     {
+        ArrayList<Integer> list1 = new ArrayList<Integer>();
 
+        list1.add(0);
+        list1.add(0);
+        list1.add(32);
+        list1.add(65);
+        list1.add(24);
 
+        int k = 0;
+        //Integer zero = new Integer(0);
+        int zero = 0;
+
+        while (k < list1.size())
+        {
+            if (list1.get(k).equals(zero)){
+               // System.out.println("Remove: " + list1.get(k));
+                list1.remove(k);
+            //this else statement is the fix 
+            }else{
+                k++;
+             }
+        }
+        System.out.println(list1);
 
     }
 
