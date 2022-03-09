@@ -3,6 +3,52 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args)
     {
+
+        int [] elements = {2,56,98,22,9,1,12,54,33};
+
+        for (int j = 0; j < elements.length-1; j++)      // line 1
+        {
+            int minIndex = j;                               // line 2
+            for (int k = j; k < elements.length; k++)       // line 3
+            {
+                if (elements[k] < elements[minIndex])        // line 4
+                {
+                    minIndex = k;                             // line 5
+                }
+            }
+            int temp = elements[j];
+            elements[j] = elements[minIndex];
+            elements[minIndex] = temp;
+        }
+
+        for(int i = 0; i < elements.length; i++){
+            System.out.println(elements[i]);
+        }
+
+
+    }
+
+    public static void selectionSort(int[] elements)
+    {
+        for (int j = 0; j < elements.length-1; j++)      // line 1
+        {
+            int minIndex = j;                               // line 2
+            for (int k = j; k < elements.length; k++)       // line 3
+            {
+                if (elements[k] < elements[minIndex])        // line 4
+                {
+                    minIndex = k;                             // line 5
+                }
+            }
+            int temp = elements[j];
+            elements[j] = elements[minIndex];
+            elements[minIndex] = temp;
+        }
+    }
+
+
+
+    public static void removeZerosArrayList () {
         ArrayList<Integer> list1 = new ArrayList<Integer>();
 
         list1.add(0);
@@ -18,15 +64,16 @@ public class App {
         while (k < list1.size())
         {
             if (list1.get(k).equals(zero)){
-               // System.out.println("Remove: " + list1.get(k));
+                // System.out.println("Remove: " + list1.get(k));
                 list1.remove(k);
-            //this else statement is the fix 
-            }else{
+                //this else statement is the fix
+            }
+
+            else{
                 k++;
-             }
+            }
         }
         System.out.println(list1);
-
     }
 
     public static void singToMe () {
